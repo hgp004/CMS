@@ -6,6 +6,7 @@ namespace CMS
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
             Console.WriteLine("Hello World!");
         }
     }
